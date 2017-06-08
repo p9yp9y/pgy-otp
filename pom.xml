@@ -15,7 +15,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>pgy.cecutil.Main</mainClass>
+							<mainClass>pgy.otp.OTPService</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
